@@ -1,2 +1,5 @@
 .env
 tsv
+*.csv
+wandb
+wav2vec2_run9
