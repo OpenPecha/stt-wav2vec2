@@ -2,4 +2,5 @@
 tsv
 *.csv
 wandb
-wav2vec2_run9
+wav2vec2_run*
+.key
