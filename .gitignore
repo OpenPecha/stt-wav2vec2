@@ -4,3 +4,4 @@ tsv
 wandb
 wav2vec2_run*
 .key
+*.json
